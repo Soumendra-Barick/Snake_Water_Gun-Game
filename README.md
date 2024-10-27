@@ -2,7 +2,7 @@
 
 Welcome to the Snake Water Gun Game – a simple, text-based game built using Python! Inspired by the classic rock-paper-scissors, this game has a fun twist with snake, water, and gun.
 
-Game Rules 🐍💧🔫  
+# Game Rules 🐍💧🔫:  
 
 1.Snake drinks the Water. (Snake Wins 🏆)  
 2.Water extinguishes the Gun. (Water Wins 🏆)  
